@@ -1,6 +1,31 @@
 # Library_Management_System
 ------------------------------
-## Screenshot
+## Features:
+---------------
+This is a web project where a librarian can maintain his library digitally.  
+At first this webiste have two login form:-  
+- **Student or Teacher login form(the user wo is going to rent book from the library)**
+- **Admin login form(who is going to maintain the library)**
+
+Now in the admin panel there will be some section.The admin will maintain the library digitally with the help of this feature.</br>  
+**Admin Panel features:-**  
+- **Add book:** This is for add a new book which is newly arive in the library and the user will see this and also can rent this book.
+- **Book report:** In this section the admin can see which book is available in the library now.
+- **Book request:** In this section the admin can see who is request for renting a book and also if the user is valid the admin can aprove it so that the user will eligible to rent the book.
+- **Add Student:** In this section the admin can add a new user who will be eligible to rent a book from the library.
+- **Student Report:** Here admin can see who are the current user.
+- **Issu Book:** In this section admin can issue a book for a registered user if that user rent any book .
+- **Issu report:** Here the admin will se how many book are being rented. 
+- **Logout :** At last there will be a logout button.if the admin click it he will be logout from the admin panel.
+
+In the user panel a student or a teacher can do some functionalities in order to rent a book from the library.</br>  
+**User Panel Features:-**
+- **My Account:** There will be the use information details.
+- **Request Book:** From this section the user will see which books are available in the library. And he can also send a request for a book from the library in order the rent the book.
+- **Book report:** Here user can see whcih books are being taken by him and how many times are available to return the book.And also if he is late to return the book e can also see how many fine he has to pay to the library.
+- **Logout:** By clicking this button the user can logout from his account.
+
+## Screenshot:
 -------------------------------
 ![Opera Snapshot_2021-12-13_183138_localhost](https://user-images.githubusercontent.com/49684017/145813405-2ae2cde1-1fd3-486d-9d01-74334810ba79.png)
 ![Capture](https://user-images.githubusercontent.com/49684017/145813417-9f61265d-1259-420c-a787-959983b8d61b.PNG)
