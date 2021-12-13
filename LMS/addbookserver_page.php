@@ -23,5 +23,5 @@ $obj->setconnection();
 $obj->addbook($bookpic,$bookname,$bookdetail,$bookaudor,$bookpub,$branch,$bookprice,$bookquantity);
   } 
   else {
-     echo "File not ckhdcd uploaded";
+     echo "File not uploaded";
   }
