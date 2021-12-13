@@ -42,6 +42,17 @@ In the user panel a student or a teacher can do some functionalities in order to
 ---------------------------
 https://user-images.githubusercontent.com/49684017/145814903-682ad545-931f-463a-929b-e5790670a671.mp4
 
-#### Drive link:
+#### Drive link of Video:
 --------------
 https://drive.google.com/drive/folders/1Y0v8EAE8hY32NReHqO_xyJ_zN6QPNFas?usp=sharing
+
+## Procedure to Run the Project:
+------------------------------------
+- First you must need xaamp server install in your conputer.Also you need a editor for you code to run.I recommended Vscode.
+- Then you need to download the project from this repository and extrat it to the **htdocs** folder which is in the **Xaamp** folder.
+- Now you open the Xaamp and start the Apache and MySQL in the xaamp.
+- Then you have to open http://localhost/phpmyadmin/ .
+- There you create a database name with **library_managment.sql** and save it.then you import the **library_managment.sql** file from your file which is extrate in the htdocs folder.
+- Then simply click http://localhost/library_management/ . You will see LMS.click on it your project will run.
+
+
